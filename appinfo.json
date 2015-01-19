@@ -1,0 +1,34 @@
+{
+    "appKeys": {
+        "spm": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "makineni@seas.upenn.edu",
+    "longName": "TrackJAM",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:. A-Z,a-z\\\\-_^!$#@^$%&^%*(-]",
+                "file": "fonts/Real Madrid2.ttf",
+                "name": "FONT_MADRID_18",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:. A-Z,a-z\\\\-_^!$#@^$%&^%*(-]",
+                "file": "fonts/Real Madrid 2014-15.ttf",
+                "name": "FONT_MADRID_34",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "TrackJAM",
+    "uuid": "0f6284e0-0043-473a-a959-08491714083a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
